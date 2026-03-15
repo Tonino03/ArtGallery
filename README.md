@@ -73,3 +73,9 @@ L'integrazione del Gateway di pagamento non si limita a una chiamata sincrona. I
 2. Configurare il database nel file `application.properties` del backend.
 3. Eseguire il backend Java.
 4. Entrare nella cartella `frontend`, eseguire `npm install` e poi `ng serve`.
+---
+
+## 👥 Contributors
+Questo progetto è stato realizzato in collaborazione da:
+* **[Antoniopio Giurranna](https://github.com/Tonino03)** - Sviluppo logica e integrazione API.
+* **[Francesco D'Angelo](https://github.com/Vuot00)** - Sviluppo UI e gestione database.
